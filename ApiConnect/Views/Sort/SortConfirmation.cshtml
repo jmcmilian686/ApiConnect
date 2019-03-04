@@ -1,0 +1,151 @@
+﻿@model ApiConnect.Models.SortConf
+@{
+    ViewBag.Title = "SortConfirmation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Input -->
+<div class="row clearfix">
+    <div class="col-sm-7">
+        <div class="card">
+            <div class="header">
+                <h2>
+                    SORT CONFIRMATION
+
+                </h2>
+
+            </div>
+
+            <div class="body" id="SortReqArea">
+
+                @using (Html.BeginForm("SortConfirmation", "Sort", FormMethod.Post, new { id = "formSortC"}))
+                {
+
+                <div class="row clearfix">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Message Number:")
+                                @Html.TextBoxFor(m => m.messageNumber)
+                                @Html.ValidationMessageFor(m => m.messageNumber, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Message Code:")
+                                @Html.TextBoxFor(m => m.messageCode)
+                                @Html.ValidationMessageFor(m => m.messageCode, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Scanned Item Type:")
+                                @Html.TextBoxFor(m => m.scannedItemType)
+                                @Html.ValidationMessageFor(m => m.scannedItemType, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Scanned Barcode:")
+                                @Html.TextBoxFor(m => m.scannedItemBarcode)
+                                @Html.ValidationMessageFor(m => m.scannedItemBarcode, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Robot Id:")
+                                @Html.TextBoxFor(m => m.robotId)
+                                @Html.ValidationMessageFor(m => m.robotId, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Destination Id:")
+                                @Html.TextBoxFor(m => m.destinationId)
+                                @Html.ValidationMessageFor(m => m.destinationId, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Induct To Deliv. Distance:")
+                                @Html.TextBoxFor(m => m.inductToDeliveryDistance)
+                                @Html.ValidationMessageFor(m => m.inductToDeliveryDistance, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Induct to Deliv. Time:")
+                                @Html.TextBoxFor(m => m.inductToDeliveryTime)
+                                @Html.ValidationMessageFor(m => m.inductToDeliveryTime, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-line">
+                                @Html.Label("Resason Code:")
+                                @Html.TextBoxFor(m => m.reasonCode)
+                                @Html.ValidationMessageFor(m => m.reasonCode, "", new { @class = "text-danger form-group" })
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="row clearfix">
+                        <div class="col-md-5 pull-right">
+                            <div class="form-group">
+
+                                <button type="submit" id="srespButton" class="btn btn-primary waves-effect @( ViewBag.Connected == "ok" ? Html.Raw("") : Html.Raw("disabled"))">Send Request</button>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+
+                }
+
+
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-5">
+        <div class="card">
+            <div class="header">
+                <h2>
+                    SORT RESPONSE
+
+                </h2>
+
+            </div>
+            <div class=" body" style="min-height:645px">
+
+                <div class="col-md-12" style="word-wrap: break-word;">
+
+                    
+                    @{
+                        if (ViewBag.Error == 0)
+                        {
+                            @ViewBag.Response
+                        }
+                        else
+                        {
+                            Html.RenderAction("_SortConfirmationPartial", Model.messResponse);
+                        }
+
+                    }
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+

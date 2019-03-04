@@ -1,0 +1,102 @@
+﻿@model ApiConnect.Models.SortResponse
+
+<div class="col-md-6">
+    <div>  <h3>Message</h3> </div>
+    <table class="table " style="border-left: 1px solid #DDD8D8;">
+        <thead>
+            <tr>
+                <th>Value</th>
+                <th>Result</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td>Status</td>
+                <td>@Model.status</td>
+            </tr>
+            <tr>
+                <td>Message Number</td>
+                <td>@Model.messageNumber</td>
+            </tr>
+            <tr>
+                <td>Status Code</td>
+                <td>@Model.statusCode</td>
+            </tr>
+            <tr>
+                <td>Status Desc.</td>
+                <td>@Model.statusDesc</td>
+            </tr>
+            <tr>
+                <td>Message Timestamp</td>
+                <td>@Model.messageTimeStamp</td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</div>
+
+
+
+
+<div class="col-md-6">
+    <div> <h3> Payload </h3>  </div>
+
+    <table class="table tableRes" style="border-left: 1px solid #DDD8D8;">
+        <thead>
+            <tr>
+                <th>Value</th>
+                <th>Result</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td>Message Code</td>
+                <td>@Model.payload.messageCode</td>
+            </tr>
+            <tr>
+                <td>Station Id</td>
+                <td>@Model.payload.stationId</td>
+            </tr>
+            <tr>
+                <td>Robot Id</td>
+                <td>@Model.payload.robotId</td>
+            </tr>
+            <tr>
+                <td>System Action</td>
+                <td>@Model.payload.systemAction</td>
+            </tr>
+            <tr>
+                <td>User Action</td>
+                <td>@Model.payload.userAction</td>
+            </tr>
+            <tr>
+                <td>User Message</td>
+                <td>@Model.payload.userMessage</td>
+            </tr>
+            <tr>
+                <td>Destination Id</td>
+                <td>@Model.payload.destinationId</td>
+            </tr>
+            <tr>
+                <td>Distance to Last Divert</td>
+                <td>@Model.payload.lastDivertToInductDistance</td>
+            </tr>
+            <tr>
+                <td>Time to Last Divert</td>
+                <td>@Model.payload.lastDivertToInductTime</td>
+            </tr>
+            <tr>
+                <td>Payload TimeStamp</td>
+                <td>@Model.payload.messageTimestamp</td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+
+</div>

@@ -1,0 +1,116 @@
+﻿
+@model ApiConnect.Domain.Entities.Field
+
+@using (Html.BeginForm("Create", "Field", FormMethod.Post, new { id = "form-fieldedit" }))
+{
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <h4>
+                    CREATE FIELD
+                </h4>
+
+
+            </div>
+
+            <div class="modal-body" id="msgBody">
+                <div class="card">
+
+                    <div class="body">
+                        <div class="row clearfix">
+                            <div class="col-sm-12">
+                                <div style="display:none;">
+
+                                    @Html.EditorFor(m => m.ID);
+
+                                </div>
+
+                                <div class="form-group form-float">
+                                    <div class="form-line">
+                                        @Html.LabelFor(m => m.Name)
+                                        @Html.EditorFor(m => m.Name, new { htmlAttributes = new { @class = "form-control", @placeholder = "Field Name" } })
+
+                                    </div>
+                                    @Html.ValidationMessageFor(m => m.Name)
+                                </div>
+                                <div class="form-group">
+                                    <div class="form-line">
+                                        @Html.LabelFor(m => m.Counter)
+                                        @Html.EditorFor(m => m.Counter, new { htmlAttributes = new { @class = "form-control", @placeholder = "Counter" } })
+                                        @Html.ValidationMessageFor(m => m.Counter)
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="form-line">
+                                        @Html.LabelFor(m => m.Level)
+                                        @Html.EditorFor(m => m.Level, new { htmlAttributes = new { @class = "form-control", @placeholder = "Level" } })
+                                        @Html.ValidationMessageFor(m => m.Level)
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="form-line">
+                                        @Html.LabelFor(m => m.FLevel)
+                                        @Html.EditorFor(m => m.FLevel, new { htmlAttributes = new { @class = "form-control", @placeholder = "Hierarchy" } })
+                                        @Html.ValidationMessageFor(m => m.FLevel)
+                                    </div>
+                                </div>
+
+                                <div class="form-group form-float">
+                                    <div class="form-line">
+
+
+                                        <input name="HasData" id="HasData" type="checkbox" value="true" data-val-required="The field is required." data-val="true" class="form-control " @if (Model.HasData) { @Html.Raw("checked") ; }><label for="HasData">Has Data?</label>
+                                        <input name="HasData" type="hidden" value="false">
+
+                                    </div>
+
+                                </div>
+
+                                <div class="form-group form-float">
+                                    <div class="form-line">
+
+
+                                        <input name="UniqueV" id="UniqueV" type="checkbox" value="true" data-val-required="The field is required." data-val="true" class="form-control " @if (Model.UniqueV) { @Html.Raw("checked") ; }><label for="UniqueV">Unique?</label>
+                                        <input name="UniqueV" type="hidden" value="false">
+
+                                    </div>
+
+                                </div>
+                                <div class="form-group form-float">
+                                    <div class="form-line">
+
+
+                                        <input name="Mandatory" id="Mandatory" type="checkbox" value="true" data-val-required="The field is required." data-val="true" class="form-control " @if (Model.Mandatory) { @Html.Raw("checked") ; }><label for="Mandatory">Mandatory?</label>
+                                        <input name="Mandatory" type="hidden" value="false">
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-success waves-effect">
+                    <i class="material-icons">done</i>
+                    <span>SAVE CHANGES</span>
+                </button>
+                <button type="button" class="btn bg-red waves-effect" data-dismiss="modal">
+                    <i class="material-icons">clear</i>
+                    <span>CLOSE</span>
+                </button>
+
+            </div>
+
+
+
+        </div>
+    </div>
+}

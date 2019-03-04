@@ -1,0 +1,82 @@
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\ApiConnect.Domain.dll.config
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\ApiConnect.Domain.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\ApiConnect.Domain.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\EntityFramework.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\EntityFramework.SqlServer.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\EntityFramework.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\EntityFramework.SqlServer.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csprojResolveAssemblyReference.cache
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\Google.Protobuf.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\MySql.Data.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\MySql.Data.Entity.EF6.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect.Domain\bin\Google.Protobuf.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.dll.config
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.SqlServer.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\Google.Protobuf.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\MySql.Data.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\MySql.Data.Entity.EF6.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.SqlServer.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\Google.Protobuf.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csprojResolveAssemblyReference.cache
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.DataSet.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.DataSet.xml
+C:\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.dll.config
+C:\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.pdb
+C:\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.SqlServer.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.DataSet.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\Google.Protobuf.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\MySql.Data.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\MySql.Data.Entity.EF6.dll
+C:\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.xml
+C:\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.SqlServer.xml
+C:\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.xml
+C:\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.DataSet.xml
+C:\ApiConnect3\ApiConnect.Domain\bin\Google.Protobuf.xml
+C:\ApiConnect3\ApiConnect.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csprojAssemblyReference.cache
+C:\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csproj.CoreCompileInputs.cache
+C:\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csproj.CopyComplete
+C:\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.dll
+C:\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.dll.config
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\ApiConnect.Domain.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.SqlServer.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.DataSet.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\Google.Protobuf.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\MySql.Data.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\MySql.Data.Entity.EF6.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\EntityFramework.SqlServer.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\ExcelDataReader.DataSet.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\Google.Protobuf.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csprojAssemblyReference.cache
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csproj.CoreCompileInputs.cache
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.csproj.CopyComplete
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect.Domain\obj\Debug\ApiConnect.Domain.pdb

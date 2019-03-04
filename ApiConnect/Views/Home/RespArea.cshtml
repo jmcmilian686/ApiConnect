@@ -1,0 +1,110 @@
+﻿@model ApiConnect.Models.Credentials
+
+<div id="connectGroup" class="col-md-4 pull-right" style="margin-top: -63px;">
+    <button type="button" id="defaults" class="btn bg-deep-purple waves-effect pull-right">Defaults</button>
+    <button type="button" id="custom" style="width:72px; margin-right:5px" class="btn bg-brown waves-effect pull-right">Custom</button>
+</div>
+
+<div class="row clearfix" id="loginForm">
+    @using (Html.BeginForm("Connect", "Home", FormMethod.Post, new { id = "formLogin" }))
+    {
+
+        <div class="col-md-12" hidden id="formFields">
+            <div class="form-group">
+                <div class="form-line">
+                    @Html.Label("Username:")
+                    @Html.TextBoxFor(m => m.username,Model.username)
+                    @Html.ValidationMessageFor(m => m.username, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="form-line">
+                    @Html.Label("Password:")
+                    @Html.TextBoxFor(m => m.password)
+                    @Html.ValidationMessageFor(m => m.password, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="form-line">
+                    @Html.Label("Host:")
+                    @Html.TextBoxFor(m => m.host)
+                    @Html.ValidationMessageFor(m => m.host, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="form-line">
+                    @Html.Label("Message Address:")
+                    @Html.TextBoxFor(m => m.MessageAddress)
+                    @Html.ValidationMessageFor(m => m.MessageAddress, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+        </div>
+        <div class="row clearfix">
+            <div class="col-md-3 pull-right">
+                <div class="form-group">
+
+                    <button type="button" id="formButton" class="btn btn-primary waves-effect" style="margin-left: 32px;"><i class="material-icons">vpn_key</i> Connect</button>
+
+                </div>
+            </div>
+
+        </div>
+    }
+</div>
+
+
+
+
+
+<hr />
+<div class="row clearfix">
+    <div class="col-md-6 ">
+        <div class="col-sm-12">
+            <div class="form-group">
+                <div class="form-line">
+                    <label> Token</label>
+                    <textarea rows="3" class="form-control no-resize" placeholder="Response">
+                  
+                        @Model.Token                        
+                   
+                   </textarea>
+                </div>
+                <div class="form-line">
+                    <label> Refresh Token</label>
+                    <textarea rows="3" class="form-control no-resize" placeholder="Response">
+                  
+                        @Model.RefreshToken                      
+                   
+                   </textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="col-md-6 ">
+        <div class="col-sm-12">
+            <div class="form-group">
+                <div class="form-line">
+                    <label> Token Decoded</label>
+                    <textarea rows="3" class="form-control no-resize" placeholder="Response">
+                  
+                        @Model.TokenDec                       
+                   
+                   </textarea>
+                </div>
+                <div class="form-line">
+                    <label> Refresh Token Decoded</label>
+                    <textarea rows="3" class="form-control no-resize" placeholder="Response">
+                  
+                        @Model.RefreshTokenDEc
+                   </textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+

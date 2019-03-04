@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ApiConnect.Models.OrdMess>
+<table class="table table-bordered table-striped table-hover js-basic-example dataTable">
+    <thead>
+    @*<th>Order Id</th>
+    <th>Facility</th>*@
+    <th>Message</th>
+    </thead>
+    <tbody id="tableBody">
+
+
+
+        @foreach (var p in Model)
+        {
+            <tr>
+
+                @*<td class="idElem">@p.OrderId</td>
+                <td>@p.FacilityId</td>*@
+                <td>@p.Message</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

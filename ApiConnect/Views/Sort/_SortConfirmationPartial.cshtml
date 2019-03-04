@@ -1,0 +1,44 @@
+﻿
+@model ApiConnect.Models.SortConfResp
+
+<div class="col-md-12">
+    <div>  <h3>Message</h3> </div>
+    <table class="table " style="border-left: 1px solid #DDD8D8;">
+        <thead>
+            <tr>
+                <th>Value</th>
+                <th>Result</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td>Status</td>
+                <td>@Model.status</td>
+            </tr>
+            <tr>
+                <td>Message Number</td>
+                <td>@Model.messageNumber</td>
+            </tr>
+            <tr>
+                <td>Status Code</td>
+                <td>@Model.statusCode</td>
+            </tr>
+            <tr>
+                <td>Status Desc.</td>
+                <td>@Model.statusDesc</td>
+            </tr>
+            <tr>
+                <td>Message Timestamp</td>
+                <td>@Model.messageTimeStamp</td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</div>
+
+
+
+

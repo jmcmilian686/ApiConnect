@@ -1,0 +1,872 @@
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ApiConnect.dll.config
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ApiConnect.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ApiConnect.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\EntityFramework.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\EntityFramework.SqlServer.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Newtonsoft.Json.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Ninject.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\RestSharp.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Net.Http.Formatting.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Helpers.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Http.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Http.WebHost.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Mvc.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Razor.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Webpages.Deployment.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Webpages.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Webpages.Razor.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\EntityFramework.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\EntityFramework.SqlServer.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Newtonsoft.Json.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Ninject.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Razor.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Webpages.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Webpages.Deployment.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Webpages.Razor.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Helpers.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Mvc.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Net.Http.Formatting.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Http.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\System.Web.Http.WebHost.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\obj\Debug\ApiConnect.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\obj\Debug\ApiConnect.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\obj\Debug\ApiConnect.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\obj\Debug\ApiConnect.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ApiConnect.Domain.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ApiConnect.Domain.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ApiConnect.Domain.dll.config
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Google.Protobuf.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\MySql.Data.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\MySql.Data.Entity.EF6.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Google.Protobuf.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Data.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Printing.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.Mvc5.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExtreme.AspNet.Data.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExtreme.AspNet.Mvc.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Office.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Images.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraCharts.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.WebForms.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Charts.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraReports.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.DataAccess.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.Resources.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.CodeParser.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Data.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExtreme.AspNet.Data.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExtreme.AspNet.Mvc.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraCharts.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraReports.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.DataAccess.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\csc.exe
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\csc.exe.config
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\csc.rsp
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\csi.exe
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\csi.exe.config
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\csi.rsp
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.AppContext.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Console.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.IO.Compression.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Security.Claims.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.ValueTuple.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\vbc.exe
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\vbc.exe.config
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\vbc.rsp
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\VBCSCompiler.exe
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\moraljo1\source\repos\ApiConnect\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ApiConnect.dll.config
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ApiConnect.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ApiConnect.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\csc.exe
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\csc.exe.config
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\csc.rsp
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\csi.exe
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\csi.exe.config
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\csi.rsp
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.AppContext.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Console.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Compression.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Pipes.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Claims.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.ValueTuple.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XPath.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\vbc.exe
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\vbc.exe.config
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\vbc.rsp
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\VBCSCompiler.exe
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Data.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Mvc.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\EntityFramework.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\EntityFramework.SqlServer.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Google.Protobuf.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\MySql.Data.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\MySql.Data.Entity.EF6.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Newtonsoft.Json.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Ninject.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\RestSharp.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Net.Http.Formatting.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Helpers.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Http.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Http.WebHost.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Mvc.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Razor.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.WebPages.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Razor.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Office.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Images.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraCharts.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.WebForms.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Charts.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.DataAccess.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.Resources.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.CodeParser.v18.1.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.dll.config
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Data.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Data.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Mvc.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\EntityFramework.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\EntityFramework.SqlServer.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Google.Protobuf.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Newtonsoft.Json.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\Ninject.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Net.Http.Formatting.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Helpers.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Http.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Http.WebHost.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Mvc.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.Razor.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.WebPages.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Razor.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraCharts.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.DataAccess.v18.1.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.pdb
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ExcelDataReader.DataSet.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ExcelDataReader.dll
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ExcelDataReader.xml
+C:\Users\moraljo1\source\repos\ApiConnect3\ApiConnect\bin\ExcelDataReader.DataSet.xml
+C:\ApiConnect3\ApiConnect\bin\ApiConnect.dll.config
+C:\ApiConnect3\ApiConnect\bin\ApiConnect.dll
+C:\ApiConnect3\ApiConnect\bin\ApiConnect.pdb
+C:\ApiConnect3\ApiConnect\bin\roslyn\csc.exe
+C:\ApiConnect3\ApiConnect\bin\roslyn\csc.exe.config
+C:\ApiConnect3\ApiConnect\bin\roslyn\csc.rsp
+C:\ApiConnect3\ApiConnect\bin\roslyn\csi.exe
+C:\ApiConnect3\ApiConnect\bin\roslyn\csi.exe.config
+C:\ApiConnect3\ApiConnect\bin\roslyn\csi.rsp
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.AppContext.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Collections.Immutable.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Console.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Compression.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.IO.FileSystem.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Pipes.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Reflection.Metadata.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Security.AccessControl.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Claims.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.ValueTuple.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XPath.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ApiConnect3\ApiConnect\bin\roslyn\vbc.exe
+C:\ApiConnect3\ApiConnect\bin\roslyn\vbc.exe.config
+C:\ApiConnect3\ApiConnect\bin\roslyn\vbc.rsp
+C:\ApiConnect3\ApiConnect\bin\roslyn\VBCSCompiler.exe
+C:\ApiConnect3\ApiConnect\bin\roslyn\VBCSCompiler.exe.config
+C:\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.dll
+C:\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Data.dll
+C:\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Mvc.dll
+C:\ApiConnect3\ApiConnect\bin\EntityFramework.dll
+C:\ApiConnect3\ApiConnect\bin\EntityFramework.SqlServer.dll
+C:\ApiConnect3\ApiConnect\bin\ExcelDataReader.DataSet.dll
+C:\ApiConnect3\ApiConnect\bin\ExcelDataReader.dll
+C:\ApiConnect3\ApiConnect\bin\Google.Protobuf.dll
+C:\ApiConnect3\ApiConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.dll
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.dll
+C:\ApiConnect3\ApiConnect\bin\Microsoft.Web.Infrastructure.dll
+C:\ApiConnect3\ApiConnect\bin\MySql.Data.dll
+C:\ApiConnect3\ApiConnect\bin\MySql.Data.Entity.EF6.dll
+C:\ApiConnect3\ApiConnect\bin\Newtonsoft.Json.dll
+C:\ApiConnect3\ApiConnect\bin\Ninject.dll
+C:\ApiConnect3\ApiConnect\bin\RestSharp.dll
+C:\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\ApiConnect3\ApiConnect\bin\System.Net.Http.Formatting.dll
+C:\ApiConnect3\ApiConnect\bin\System.Web.Helpers.dll
+C:\ApiConnect3\ApiConnect\bin\System.Web.Http.dll
+C:\ApiConnect3\ApiConnect\bin\System.Web.Http.WebHost.dll
+C:\ApiConnect3\ApiConnect\bin\System.Web.Mvc.dll
+C:\ApiConnect3\ApiConnect\bin\System.Web.Razor.dll
+C:\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Deployment.dll
+C:\ApiConnect3\ApiConnect\bin\System.Web.WebPages.dll
+C:\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Razor.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Office.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Images.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraCharts.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.PivotGrid.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.WebForms.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Charts.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.DataAccess.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.Resources.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraGauges.v18.1.Core.dll
+C:\ApiConnect3\ApiConnect\bin\DevExpress.CodeParser.v18.1.dll
+C:\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.pdb
+C:\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.dll.config
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Data.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Printing.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Xpo.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Data.xml
+C:\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Mvc.xml
+C:\ApiConnect3\ApiConnect\bin\EntityFramework.xml
+C:\ApiConnect3\ApiConnect\bin\EntityFramework.SqlServer.xml
+C:\ApiConnect3\ApiConnect\bin\ExcelDataReader.xml
+C:\ApiConnect3\ApiConnect\bin\ExcelDataReader.DataSet.xml
+C:\ApiConnect3\ApiConnect\bin\Google.Protobuf.xml
+C:\ApiConnect3\ApiConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.pdb
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.xml
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.xml
+C:\ApiConnect3\ApiConnect\bin\Newtonsoft.Json.xml
+C:\ApiConnect3\ApiConnect\bin\Ninject.xml
+C:\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\ApiConnect3\ApiConnect\bin\System.Net.Http.Formatting.xml
+C:\ApiConnect3\ApiConnect\bin\System.Web.Helpers.xml
+C:\ApiConnect3\ApiConnect\bin\System.Web.Http.xml
+C:\ApiConnect3\ApiConnect\bin\System.Web.Http.WebHost.xml
+C:\ApiConnect3\ApiConnect\bin\System.Web.Mvc.xml
+C:\ApiConnect3\ApiConnect\bin\System.Web.Razor.xml
+C:\ApiConnect3\ApiConnect\bin\System.Web.WebPages.xml
+C:\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Deployment.xml
+C:\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Razor.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Office.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraCharts.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraReports.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.DataAccess.v18.1.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.WebUI.csprojAssemblyReference.cache
+C:\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.WebUI.csproj.CoreCompileInputs.cache
+C:\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.WebUI.csproj.CopyComplete
+C:\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.dll
+C:\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ApiConnect.dll.config
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ApiConnect.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ApiConnect.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\csc.exe
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\csc.exe.config
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\csc.rsp
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\csi.exe
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\csi.exe.config
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\csi.rsp
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.AppContext.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Collections.Immutable.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Console.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Compression.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.IO.FileSystem.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.IO.Pipes.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Security.AccessControl.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Claims.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.ValueTuple.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XPath.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\vbc.exe
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\vbc.exe.config
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\vbc.rsp
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\VBCSCompiler.exe
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\roslyn\VBCSCompiler.exe.config
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Data.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Mvc.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\EntityFramework.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\EntityFramework.SqlServer.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ExcelDataReader.DataSet.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ExcelDataReader.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Google.Protobuf.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.Web.Infrastructure.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\MySql.Data.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\MySql.Data.Entity.EF6.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Newtonsoft.Json.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Ninject.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\RestSharp.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Net.Http.Formatting.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Helpers.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Http.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Http.WebHost.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Mvc.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Razor.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Deployment.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.WebPages.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Razor.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ApiConnect.Domain.dll.config
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Data.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\DevExtreme.AspNet.Mvc.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\EntityFramework.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\EntityFramework.SqlServer.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ExcelDataReader.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\ExcelDataReader.DataSet.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Google.Protobuf.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Logging.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Newtonsoft.Json.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\Ninject.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Net.Http.Formatting.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Helpers.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Http.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Http.WebHost.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Mvc.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.Razor.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.WebPages.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Deployment.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\bin\System.Web.WebPages.Razor.xml
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.WebUI.csprojAssemblyReference.cache
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.WebUI.csproj.CoreCompileInputs.cache
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.WebUI.csproj.CopyComplete
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.dll
+C:\Storage\Development\Nordstrom ApiMessage\ApiConnect3\ApiConnect\obj\Debug\ApiConnect.pdb

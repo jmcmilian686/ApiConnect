@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ApiConnect.Domain.Entities.Robot>
+
+<div class="col-md-11 col-xs-12 pull-right">
+    <div class="card">
+        <div class="header">
+            <div class="col-xs-5 pull-left">
+                <h2>
+                    Robots
+                </h2>
+            </div>
+            <div class="col-md-1 pull-right" id="btn_plusR">
+                <button type="button" id="btnPlusR" class="btn_plus btn btn-success waves-effect pull-right ">
+                    <i class="material-icons">add</i>
+                </button>
+            </div>
+
+        </div>
+        <div class="body">
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped table-hover js-basic-example dataTable">
+                    <thead>
+                        <tr>
+                            <th>Action</th>
+                            <th>Id</th>
+                            <th>Robot Name</th>
+                            <th>IP Address</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var p in Model)
+                        {
+                            <tr>
+                                <td style="text-align:center;">
+                                    <button type="button" class=" btnDelR btn btn-table bg-deep-orange waves-effect">
+                                        <i class="material-icons ">delete</i>
+                                    </button>
+                                    <button type="button" class=" btnEditR btn btn-table btn-success waves-effect">
+                                        <i class="material-icons">edit</i>
+                                    </button>
+                                </td>
+                                <td class="idElem">@p.ID</td>
+                                <td>@p.Name</td>
+                                <td>@p.IP</td>
+                               
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
+

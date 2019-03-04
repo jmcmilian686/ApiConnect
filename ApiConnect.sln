@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConnect.WebUI", "ApiConnect\ApiConnect.WebUI.csproj", "{B87C7A0B-17A2-45F3-BB11-60D18C2E3B7E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{37640025-7CB6-4E8B-956E-DDCA1C848F0A} = {37640025-7CB6-4E8B-956E-DDCA1C848F0A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConnect.Domain", "ApiConnect.Domain\ApiConnect.Domain.csproj", "{37640025-7CB6-4E8B-956E-DDCA1C848F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87C7A0B-17A2-45F3-BB11-60D18C2E3B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87C7A0B-17A2-45F3-BB11-60D18C2E3B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87C7A0B-17A2-45F3-BB11-60D18C2E3B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87C7A0B-17A2-45F3-BB11-60D18C2E3B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37640025-7CB6-4E8B-956E-DDCA1C848F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37640025-7CB6-4E8B-956E-DDCA1C848F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37640025-7CB6-4E8B-956E-DDCA1C848F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37640025-7CB6-4E8B-956E-DDCA1C848F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {965E160F-E5F8-4125-8D06-8011CF88F287}
+	EndGlobalSection
+EndGlobal

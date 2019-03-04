@@ -1,0 +1,337 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using ApiConnect.Domain.Entities
+
+<div class="row clearfix">
+    @if (ViewBag.Token == true)
+    {
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="card">
+            <div class="header">
+                <h2>WAVE CREATION</h2>
+
+            </div>
+            <div class="body">
+                <div id="wizard_horizontal">
+                    <h2>Wave Setup</h2>
+                    <section id="waveSect">
+                        <div class="row">
+                            <div class="col-md-3 rightSep">
+                                <div class="form-group">
+                                    <div class="form-line ">
+
+
+                                        <input name="NoWave" id="NoWave" type="checkbox" value="true" data-val-required="The field is required." data-val="true" class="form-control " checked="true"><label for="NoWave">No Wrapping Wave?</label>
+                                        <hr />
+                                        <input name="SavFile" id="SavFile" type="checkbox" value="true" data-val-required="The field is required." data-val="true" class="form-control " checked="true"><label for="SavFile">Save to JSON file</label>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class=" col-md-8">
+
+                                <div>
+
+                                    <table id="TableWave" class="table table-bordered dataTable">
+                                        <thead>
+                                            <tr>
+
+                                                <th class="hidden"> ID</th>
+                                                <th> Item</th>
+                                                <th> Value</th>
+                                                <th style="width: 149px;"> Action</th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody id="TableBodyWave">
+                                            @foreach (var item in ViewBag.ItemsW)
+                                            {
+                                                <tr>
+
+                                                    <td class="ID hidden">@item.ID</td>
+                                                    <td class="idRow"> @item.Name</td>
+                                                    <td class="valRow"></td>
+                                                    <td class="contRow">
+                                                        <button type="button" class=" btnEditRow btn btn-table btn-success waves-effect">
+                                                            <i class="material-icons">edit</i>
+                                                        </button>
+                                                        <button type="button" class=" btnDelRow btn btn-table bg-deep-orange waves-effect">
+                                                            <i class="material-icons ">delete</i>
+                                                        </button>
+                                                        <button type="button" class=" hidden btnSavRow btn btn-table bg-green waves-effect">
+                                                            <i class="material-icons">check</i>
+                                                        </button>
+                                                        <button type="button" class=" hidden btnCanRow btn btn-table bg-red waves-effect">
+                                                            <i class="material-icons ">cancel</i>
+                                                        </button>
+                                                    </td>
+
+                                                </tr>
+                                            }
+
+                                        </tbody>
+                                    </table>
+
+                                </div>
+
+                            </div>
+
+
+
+
+                        </div>
+                        <hr />
+                        <div class="row">
+                            <div class="col-md-12" id="wavConfPar">
+
+                            </div>
+
+                        </div>
+                    </section>
+
+                    <h2>Order Setup</h2>
+                    <section>
+                        <div class="row orderDat1">
+                            <div class="col-md-3 nobott">
+
+                                <div class="form-group">
+                                    <div class="form-line">
+                                        @Html.Label("Amount of Orders:")
+                                        @Html.Editor("AmntOrd", new { htmlAttributes = new { @class = "form-control", @placeholder = "Amount of Orders", @id = "AmntOrd", @type = "number" } })
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-md-8 nobott">
+                                <table id="TableOrder" class="table table-bordered dataTable">
+                                    <thead>
+                                        <tr>
+
+                                            <th class="hidden"> ID</th>
+                                            <th> Item</th>
+                                            <th> Value</th>
+                                            <th style="width: 149px;"> Action</th>
+
+                                        </tr>
+                                    </thead>
+                                    <tbody id="TableBodyOrder">
+                                        @foreach (var item in ViewBag.ItemsO)
+                                        {
+                                        <tr>
+
+                                            <td class="ID hidden">@item.ID</td>
+                                            <td class="idRow"> @item.Name</td>
+                                            <td class="valRow"></td>
+                                            <td class="contRow">
+                                                <button type="button" class=" btnEditRow btn btn-table btn-success waves-effect">
+                                                    <i class="material-icons">edit</i>
+                                                </button>
+                                                <button type="button" class=" btnDelRow btn btn-table bg-deep-orange waves-effect">
+                                                    <i class="material-icons ">delete</i>
+                                                </button>
+                                                <button type="button" class=" hidden btnSavRow btn btn-table bg-green waves-effect">
+                                                    <i class="material-icons">check</i>
+                                                </button>
+                                                <button type="button" class=" hidden btnCanRow btn btn-table bg-red waves-effect">
+                                                    <i class="material-icons ">cancel</i>
+                                                </button>
+                                            </td>
+                                        </tr>
+                                        }
+
+                                    </tbody>
+                                </table>
+
+                            </div>
+                        </div>
+
+                    </section>
+
+                    @*<h2>Container Setup</h2>
+                    <section>
+                        <div class="row contDat1">
+                            <div class="col-md-3 nobott">
+
+                                <div class="form-group">
+                                    <div class="form-line">
+                                        @Html.Label("Amount of Containers:")
+                                        @Html.Editor("AmntCont", new { htmlAttributes = new { @class = "form-control", @placeholder = "Amount of Containers", @id = "AmntCont", @type = "number" } })
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-md-8 nobott">
+                                <table id="TableContainer" class="table table-bordered dataTable">
+                                    <thead>
+                                        <tr>
+
+                                            <th class="hidden"> ID</th>
+                                            <th> Item</th>
+                                            <th> Value</th>
+                                            <th style="width: 149px;"> Action</th>
+
+                                        </tr>
+                                    </thead>
+                                    <tbody id="TableBodyCont">
+                                        @foreach (var item in ViewBag.ItemsC)
+                                        {
+                                        <tr>
+
+                                            <td class="ID hidden">@item.ID</td>
+                                            <td class="idRow"> @item.Name</td>
+                                            <td class="valRow"></td>
+                                            <td class="contRow">
+                                                <button type="button" class=" btnEditRow btn btn-table btn-success waves-effect">
+                                                    <i class="material-icons">edit</i>
+                                                </button>
+                                                <button type="button" class=" btnDelRow btn btn-table bg-deep-orange waves-effect">
+                                                    <i class="material-icons ">delete</i>
+                                                </button>
+                                                <button type="button" class=" hidden btnSavRow btn btn-table bg-green waves-effect">
+                                                    <i class="material-icons">check</i>
+                                                </button>
+                                                <button type="button" class=" hidden btnCanRow btn btn-table bg-red waves-effect">
+                                                    <i class="material-icons ">cancel</i>
+                                                </button>
+                                            </td>
+                                        </tr>
+                                        }
+
+                                    </tbody>
+                                </table>
+
+                            </div>
+                        </div>
+                        <hr />
+
+
+                    </section>*@
+
+                    <h2>Line Setup</h2>
+                    <section>
+                        <div class="row contDat1">
+                            <div class="col-md-3 nobott">
+
+                                <div class="form-group">
+                                    <div class="form-line">
+                                        @Html.Label("Amount of Lines:")
+                                        @Html.Editor("AmntLine", new { htmlAttributes = new { @class = "form-control", @placeholder = "Amount of Lines", @id = "AmntLine", @type = "number" } })
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-md-8 nobott">
+                                <table id="TableLine" class="table table-bordered dataTable">
+                                    <thead>
+                                        <tr>
+
+                                            <th class="hidden"> ID</th>
+                                            <th> Item</th>
+                                            <th> Value</th>
+                                            <th style="width: 149px;"> Action</th>
+
+                                        </tr>
+                                    </thead>
+                                    <tbody id="TableBodyCont">
+                                        @foreach (var item in ViewBag.ItemsL)
+                                        {
+                                        <tr>
+
+                                            <td class="ID hidden">@item.ID</td>
+                                            <td class="idRow"> @item.Name</td>
+                                            
+                                            <td class="valRow"></td>
+                                           
+                                            <td class="contRow">
+                                                <button type="button" class=" btnEditRow btn btn-table btn-success waves-effect">
+                                                    <i class="material-icons">edit</i>
+                                                </button>
+                                                <button type="button" class=" btnDelRow btn btn-table bg-deep-orange waves-effect">
+                                                    <i class="material-icons ">delete</i>
+                                                </button>
+                                                <button type="button" class=" hidden btnSavRow btn btn-table bg-green waves-effect">
+                                                    <i class="material-icons">check</i>
+                                                </button>
+                                                <button type="button" class=" hidden btnCanRow btn btn-table bg-red waves-effect">
+                                                    <i class="material-icons ">cancel</i>
+                                                </button>
+                                            </td>
+                                        </tr>
+                                        }
+
+                                    </tbody>
+                                </table>
+
+                            </div>
+                        </div>
+
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    }
+    else {
+
+    <div class="col-md-4 col-md-offset-4">
+
+        <div class="card">
+            <div class="header">
+                <h2>WAVE CREATION</h2>
+
+            </div>
+            <div class="body">
+                <h3 style="text-align:center;">You are not connected!</h3>
+                <h4 style="text-align:center; margin-top:20px;">Please first connect to get the Authentication Token.</h4>
+            </div>
+
+       </div>
+    </div>
+    }
+
+ </div>
+<div class="modal fade" id="waveCModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="defaultModalLabel">Message</h4>
+            </div>
+            <div class="modal-body" id="updAreaW">
+               
+            </div>
+            <div class="modal-footer">
+                
+                <button type="button" id="clModalW" class="btn btn-link waves-effect" data-dismiss="modal">CLOSE</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+        @section scripts{
+
+
+            <script src="~/Template/js/pages/forms/basic-form-elements.js"></script>
+            <!-- Bootstrap Material Datetime Picker Plugin Js -->
+            <script src="~/Template/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js"></script>
+            <!-- Jquery Validation Plugin Css -->
+            <script src="~/Template/plugins/jquery-validation/jquery.validate.js"></script>
+            <!-- Sweet Alert Plugin Js -->
+            <script src="~/Template/plugins/sweetalert/sweetalert.min.js"></script>
+            <!-- JQuery Steps Plugin Js -->
+            <script src="~/Template/plugins/jquery-steps/jquery.steps.js"></script>
+            <!-- Autosize Plugin Js -->
+            <script src="~/Template/plugins/autosize/autosize.js"></script>
+            <!-- Custom Js -->
+            <script src="~/Template/js/pages/forms/form-validation.js"></script>
+            <script src="~/Template/plugins/nouislider/nouislider.js"></script>
+
+            <script src="~/Template/js/pages/forms/form-wizard.js"></script>
+
+            <script src="~/Template/plugins/jsgrid-1.5.3/dist/jsgrid.js"></script>
+
+        }

@@ -1,0 +1,126 @@
+﻿@model ApiConnect.Models.SortReq
+@{
+    ViewBag.Title = "SortRequest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- Input -->
+<div class="row clearfix">
+    <div class="col-sm-4">
+        <div class="card">
+            <div class="header">
+                <h2>
+                    SORT REQUEST
+
+                </h2>
+
+            </div>
+
+            <div class="body" id="SortReqArea">
+
+               @using (Html.BeginForm("SortRequest", "Sort", FormMethod.Post, new { id = "formSortR" }))
+               {
+
+                    <div class="row clearfix">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <div class="form-line">
+                                    @Html.Label("Message Number:")
+                                    @Html.TextBoxFor(m => m.messageNumber)
+                                    @Html.ValidationMessageFor(m => m.messageNumber, "", new { @class = "text-danger form-group" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-line">
+                                    @Html.Label("Message Code:")
+                                    @Html.TextBoxFor(m => m.messageCode)
+                                    @Html.ValidationMessageFor(m => m.messageCode, "", new { @class = "text-danger form-group" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="form-line">
+                                    @Html.Label("Station Id:")
+                                    @Html.TextBoxFor(m => m.stationId)
+                                    @Html.ValidationMessageFor(m => m.stationId, "", new { @class = "text-danger form-group" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-line">
+                                    @Html.Label("Scanned Item Type:")
+                                    @Html.TextBoxFor(m => m.scannedItemType)
+                                    @Html.ValidationMessageFor(m => m.scannedItemType, "", new { @class = "text-danger form-group" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-line">
+                                    @Html.Label("Scanned Barcode:")
+                                    @Html.TextBoxFor(m => m.scannedItemBarcode)
+                                    @Html.ValidationMessageFor(m => m.scannedItemBarcode, "", new { @class = "text-danger form-group" })
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-line">
+                                    @Html.Label("Robot Id:")
+                                    @Html.TextBoxFor(m => m.robotId)
+                                    @Html.ValidationMessageFor(m => m.robotId, "", new { @class = "text-danger form-group" })
+                                </div>
+                            </div>
+                           
+
+                        </div>
+                        <div class="row clearfix">
+                            <div class="col-md-5 pull-right">
+                                <div class="form-group">
+
+                                    <button type="submit" id="sortButton" class="btn btn-primary waves-effect @( ViewBag.Connected == "ok" ? Html.Raw("") : Html.Raw("disabled"))">Send Request</button>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+
+
+               }
+
+                
+           </div>
+        </div>
+    </div>
+    <div class="col-sm-8">
+        <div class="card" >
+            <div class="header">
+                <h2>
+                    SORT RESPONSE
+
+                </h2>
+                                
+            </div>
+            <div class=" body" style="min-height:645px">
+               
+                <div class="col-md-12" style="word-wrap: break-word;">
+
+                    @{
+                        if (ViewBag.Error == 0)
+                        {
+                            @ViewBag.Response
+                        }
+                        else
+                        {
+                            Html.RenderAction("_SortResponsePartial", Model.messResponse);
+                        }
+
+                    }
+
+                </div>
+                             
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- #END# Input -->
