@@ -129,7 +129,7 @@ namespace ApiConnect.Controllers
 
 
         [HttpPost]
-        public ActionResult UpFile()
+        public ActionResult UpFile()// uploading file to process
         {
             Session["Messages"] = "";
             Session["SendingList"] = "";
