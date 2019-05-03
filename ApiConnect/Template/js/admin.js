@@ -797,6 +797,62 @@ $("#file1").change(function () {
     $('#selectedF').text($('#file1')[0].files[0].name);
 });
 
+//==========================Batch loading=====================================================
+
+$("#loadBatch").on("click", function (e) {
+
+    e.preventDefault();
+
+    $("#file3").click();
+
+    var file = $("#file3").val();
+
+});
+
+//$("#file3").change(function () {
+//    var files = $('#file3')[0].files;
+//    if (files.length > 0) {
+
+//        if (window.FormData !== undefined) {
+
+//            var data = new FormData();
+//            for (var x = 0; x < files.length; x++) {
+//                data.append("file" + x, files[x]);
+//            }
+
+//            console.log(data);
+
+//            $.ajax({
+//                type: "POST",
+//                url: '/Send/UpBatch',
+//                contentType: false,
+//                processData: false,
+//                data: data,
+//                beforeSend: function () {
+//                    $('.page-loader-wrapper').fadeIn();
+//                },
+//                success: function (result) {
+                   
+//                    $('.page-loader-wrapper').fadeOut();
+//                    console.log("Ok");
+//                    window.location.reload();
+//                },
+//                error: function (xhr, status, p3, p4) {
+//                    var err = "Error " + " " + status + " " + p3 + " " + p4;
+//                    if (xhr.responseText && xhr.responseText[0] === "{")
+//                        err = JSON.parse(xhr.responseText).Message;
+//                    console.log(err);
+//                    $('.page-loader-wrapper').fadeOut();
+//                }
+//            });
+
+//        }
+
+
+//    }
+//});
+
+//============================================================================================
 
 //==========================Orders Sending=====================================================
 $("#uplorders").on("click", function (e) {
@@ -899,39 +955,54 @@ $("#batchData").on("click", function (e) {
 $("#batchCrea").on("click", function (e) {
     e.preventDefault();
 
-    var bnum = parseInt($("#batchSize").val());
-    var cnum = parseInt($("#contBatch").val());
-
-    var mod = {
-        BatchSize: bnum,
-        Containers: cnum
-    };
+    //var files = $('#file3')[0].files;
+    var cont = $("#contBatch").val();
 
 
-    $.ajax({
-        type: "POST",
-        url: '/Send/PickTote',
-        data: mod,
-        beforeSend: function () {
-            $('.page-loader-wrapper').fadeIn();
-        },
-        success: function (data) {
 
-            $("#updAreaResult").append("<p>" + data + "</p>");
-            $("#modalResult").modal();
-            $('.page-loader-wrapper').fadeOut();
-            console.log(data);
-            $("#modalBatch").modal('toggle');
-            // window.location.reload();
-        },
-        error: function (xhr, status, p3, p4) {
-            var err = "Error " + " " + status + " " + p3 + " " + p4;
-            if (xhr.responseText && xhr.responseText[0] === "{")
-                err = JSON.parse(xhr.responseText).Message;
-            console.log(err);
-            $('.page-loader-wrapper').fadeOut();
+    //if (files.length > 0) {
+
+        if (window.FormData !== undefined) {
+
+            var dataM = new FormData();
+            dataM.append("cont", cont);
+
+            //for (var x = 0; x < files.length; x++) {
+            //    data.append("file" + x, files[x]);
+            //}
+
+            console.log(dataM);
+
+            $.ajax({
+                type: "POST",
+                url: '/Send/UpBatch',
+                contentType: false,
+                processData: false,
+                data: dataM,
+                beforeSend: function () {
+                    //$('.page-loader-wrapper').fadeIn();
+                },
+                success: function (result) {
+                    $('.page-loader-wrapper').fadeOut();
+                    $("#updAreaResult").append("<p>" + result + "</p>");
+                    $("#modalBatch").modal('toggle');
+                    $("#modalResult").modal();
+                    console.log("Ok");
+            
+                },
+                error: function (xhr, status, p3, p4) {
+                    var err = "Error " + " " + status + " " + p3 + " " + p4;
+                    if (xhr.responseText && xhr.responseText[0] === "{")
+                        err = JSON.parse(xhr.responseText).Message;
+                    console.log(err);
+                    $('.page-loader-wrapper').fadeOut();
+                }
+            });
+
         }
-    });
+
+
+    //}
 });
 
 $("#processData").on("click", function (e) {

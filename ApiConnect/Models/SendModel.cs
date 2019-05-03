@@ -11,6 +11,8 @@ namespace ApiConnect.Models
 
         public int Timer { get; set; }
 
+        public string MessageType { get; set; }
+
         public List<OrdMess> Messages { get; set; }
     }
 }

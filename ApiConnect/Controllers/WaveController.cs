@@ -331,154 +331,154 @@ namespace ApiConnect.Controllers
                 
                     // Create a file to write to.
                using (StreamWriter sw = new StreamWriter(path, false))
-                {
+               {
                         
                   
 
-                if (model.NoWave) {
-                    string respMessage = "";
-                    int mesCounter = 0;
-                    foreach (var item in ordersConv)
-                    {
-                        mesCounter++;
-                        json = JsonConvert.SerializeObject(item);
-                        string[] explJson = json.Split(',');
-
-                        string date = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                        string newJson = "";
-                        int index = 0;
-                        foreach (var itemJ in explJson)
+                    if (model.NoWave) {
+                        string respMessage = "";
+                        int mesCounter = 0;
+                        foreach (var item in ordersConv)
                         {
-                            if (!itemJ.Contains(":null"))
+                            mesCounter++;
+                            json = JsonConvert.SerializeObject(item);
+                            string[] explJson = json.Split(',');
+
+                            string date = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                            string newJson = "";
+                            int index = 0;
+                            foreach (var itemJ in explJson)
                             {
-                                char last = itemJ[itemJ.Length - 1];
+                                if (!itemJ.Contains(":null"))
+                                {
+                                    char last = itemJ[itemJ.Length - 1];
                                 
 
-                                if (index == 0)
-                                {
-                                    newJson = newJson + itemJ;
-                                    index++;
-                                    continue;
-                                }
-                                else if (newJson.Length>0 && (newJson[newJson.Length - 1] == '{'))
-                                {
-                                    newJson = newJson + itemJ + ",";
-                                    continue;
-                                }
-                                else if (newJson.Length > 0 && (newJson[newJson.Length - 1] == ','))
-                                {
-                                    newJson = newJson + itemJ;
-                                    continue;
-                                }
-                                else if (last != '}') {
-                                    newJson = newJson + "," + itemJ;
-                                    continue;
-                                }
+                                    if (index == 0)
+                                    {
+                                        newJson = newJson + itemJ;
+                                        index++;
+                                        continue;
+                                    }
+                                    else if (newJson.Length>0 && (newJson[newJson.Length - 1] == '{'))
+                                    {
+                                        newJson = newJson + itemJ + ",";
+                                        continue;
+                                    }
+                                    else if (newJson.Length > 0 && (newJson[newJson.Length - 1] == ','))
+                                    {
+                                        newJson = newJson + itemJ;
+                                        continue;
+                                    }
+                                    else if (last != '}') {
+                                        newJson = newJson + "," + itemJ;
+                                        continue;
+                                    }
                                
                                 
+                                    else
+                                    {
+                                        newJson = newJson + "," + itemJ + ",";
+                                    }
+                                }
                                 else
                                 {
-                                    newJson = newJson + "," + itemJ + ",";
-                                }
-                            }
-                            else
-                            {
-                                char last = itemJ[itemJ.Length - 1];
-                                char first = itemJ[0];
+                                    char last = itemJ[itemJ.Length - 1];
+                                    char first = itemJ[0];
 
-                                if (last == ']')
-                                {
-                                    newJson = newJson + "}]";
-                                    continue;
-                                }
-                                if (last == '}')
-                                {
-                                    newJson = newJson + "}";
-                                    continue;
-                                }
-                                if (itemJ.Contains("[{"))
-                                {
-                                    var patch = itemJ.Split('[');
-                                    newJson = newJson + patch[0] + "[{";
-                                    index = 0;
-                                    continue;
-                                }
-                                if (itemJ.Contains(":{"))
-                                {
-                                    var patch = itemJ.Split(':');
-                                    newJson = newJson +","+ patch[0] + ":{";
-                                    index = 0;
-                                    continue;
-                                }
-                                if (first == '{')
-                                {
-                                    newJson = newJson + "{";
-                                    continue;
-                                }
+                                    if (last == ']')
+                                    {
+                                        newJson = newJson + "}]";
+                                        continue;
+                                    }
+                                    if (last == '}')
+                                    {
+                                        newJson = newJson + "}";
+                                        continue;
+                                    }
+                                    if (itemJ.Contains("[{"))
+                                    {
+                                        var patch = itemJ.Split('[');
+                                        newJson = newJson + patch[0] + "[{";
+                                        index = 0;
+                                        continue;
+                                    }
+                                    if (itemJ.Contains(":{"))
+                                    {
+                                        var patch = itemJ.Split(':');
+                                        newJson = newJson +","+ patch[0] + ":{";
+                                        index = 0;
+                                        continue;
+                                    }
+                                    if (first == '{')
+                                    {
+                                        newJson = newJson + "{";
+                                        continue;
+                                    }
                                
-                            }
+                                }
                             
-                        }
-                        json = newJson.Substring(0, newJson.Length - 1);
-                            //=====================Saving to a file==================
-                        sw.WriteLine(json);
-                            //=====================end Saving to a file
+                            }
+                            json = newJson.Substring(0, newJson.Length - 1);
+                                //=====================Saving to a file==================
+                            sw.WriteLine(json);
+                                //=====================end Saving to a file
 
                             
                         
-                        if (!model.SavFile)
-                        {
+                            if (!model.SavFile)
+                            {
 
 
-                           RestClient client;
+                               RestClient client;
 
-                           client = Session["MessageAddress"].ToString() != "NOAD" ? new RestClient(Session["MessageAddress"].ToString()) : new RestClient("https://qa.sensorthink.com/iot/integ/message");
+                               client = Session["MessageAddress"].ToString() != "NOAD" ? new RestClient(Session["MessageAddress"].ToString()) : new RestClient("https://qa.sensorthink.com/iot/integ/message");
 
 
-                           var request = new RestRequest(Method.POST);
+                               var request = new RestRequest(Method.POST);
 
-                           request.AddHeader("Content-Type", "application/json");
-                           request.AddHeader("X-Authorization", "Bearer " + Session["token"]);
-                           request.AddParameter("application/json", json, ParameterType.RequestBody);
-                           IRestResponse response = client.Execute(request);
+                               request.AddHeader("Content-Type", "application/json");
+                               request.AddHeader("X-Authorization", "Bearer " + Session["token"]);
+                               request.AddParameter("application/json", json, ParameterType.RequestBody);
+                               IRestResponse response = client.Execute(request);
 
-                                // ============ End of Message======================
-                           if (response.ErrorMessage != null)
-                              response.StatusCode = HttpStatusCode.BadRequest;
+                                    // ============ End of Message======================
+                               if (response.ErrorMessage != null)
+                                  response.StatusCode = HttpStatusCode.BadRequest;
 
-                              RestSharp.Deserializers.JsonDeserializer deserial = new RestSharp.Deserializers.JsonDeserializer();
-                              var desResponse = deserial.Deserialize<MsgResponse>(response);
-                              respMessage = respMessage + mesCounter.ToString() + ">>" + (desResponse.status + desResponse.statusCode + desResponse.statusDesc) + "--";
+                                  RestSharp.Deserializers.JsonDeserializer deserial = new RestSharp.Deserializers.JsonDeserializer();
+                                  var desResponse = deserial.Deserialize<MsgResponse>(response);
+                                  respMessage = respMessage + mesCounter.ToString() + ">>" + (desResponse.status + desResponse.statusCode + desResponse.statusDesc) + "--";
 
-                        }
+                            }
 
-                        }
-                    return Json(respMessage);
-                   // return Json(json);
+                            }
+                        return Json(respMessage);
+                       // return Json(json);
 
-                }
-                else {
-                    json = JsonConvert.SerializeObject(wavConv);
-                    string date = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                    RestClient client;
+                    }
+                    else {
+                        json = JsonConvert.SerializeObject(wavConv);
+                        string date = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                        RestClient client;
 
-                    client = Session["MessageAddress"].ToString() != "NOAD" ? new RestClient(Session["MessageAddress"].ToString()) : new RestClient("https://qa.sensorthink.com/iot/integ/message");
+                        client = Session["MessageAddress"].ToString() != "NOAD" ? new RestClient(Session["MessageAddress"].ToString()) : new RestClient("https://qa.sensorthink.com/iot/integ/message");
 
-                    var request = new RestRequest(Method.POST);
-                    request.AddHeader("cache-control", "no-cache");
-                    request.AddHeader("content-type", "application/json");
-                    request.AddHeader("x-authorization", "Bearer " + Session["token"]);
-                    request.AddParameter("application/json", json);
-                    IRestResponse response = client.Execute(request);
+                        var request = new RestRequest(Method.POST);
+                        request.AddHeader("cache-control", "no-cache");
+                        request.AddHeader("content-type", "application/json");
+                        request.AddHeader("x-authorization", "Bearer " + Session["token"]);
+                        request.AddParameter("application/json", json);
+                        IRestResponse response = client.Execute(request);
 
-                    //============End of Message======================
-                    if (response.ErrorMessage != null)
-                        response.StatusCode = HttpStatusCode.BadRequest;
-                    return Json(response.StatusDescription + response.StatusCode);
-                    //return Json(json);
-                }
+                        //============End of Message======================
+                        if (response.ErrorMessage != null)
+                            response.StatusCode = HttpStatusCode.BadRequest;
+                        return Json(response.StatusDescription + response.StatusCode);
+                        //return Json(json);
+                    }
 
-                }
+               }
 
 
             }

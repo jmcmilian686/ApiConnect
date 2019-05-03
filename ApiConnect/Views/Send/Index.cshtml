@@ -30,7 +30,7 @@
                     <div class="col-md-7">
                         <div class="form-group col-xs-6">
                             <div class="form-line">
-                                @Html.Label("Orders Quantity:")
+                                @Html.Label("Quantity:")
                                 @Html.Editor("OrdQty", new { htmlAttributes = new { @class = "form-control", @value = Model.OrdQty, @placeholder = "Orders Quantity", @id = "OrdQty", @disabled = "true", @type = "number" } })
                             </div>
 
@@ -62,10 +62,16 @@
                                     <i class="material-icons">alarm</i>
                                     <span> Send Timed</span>
                                 </button>
-                                <button type="button" class="btn bg-purple waves-effect  pull-left " id="batchData">
-                                    <i class="material-icons">widgets</i>
-                                    <span> Batch</span>
-                                </button>
+                                if (Model.MessageType == "Batch")
+                                {
+                                    <button type="button" class="btn bg-purple waves-effect  pull-left " id="batchData">
+                                        <i class="material-icons">widgets</i>
+                                        <span> Batch</span>
+                                    </button>
+                                   
+
+                                }
+
                             }
 
                         </div>
@@ -123,13 +129,15 @@
                 <div class="row">
                     <div class="col-xs-12">
 
-                        <div class="form-group col-xs-6">
-                            <div class="form-line">
-                                @Html.Label("Batch Size:")
-                                @Html.Editor("batchSize", new { htmlAttributes = new { @class = "form-control", @value = Model.OrdQty, @placeholder = "Batch Size", @id = "batchSize",  @type = "number" } })
-                            </div>
+                        @*<div class="form-group col-xs-6">
+                           
+                            <button type="button" class="btn bg-green waves-effect  pull-left " id="loadBatch" style="margin-left:15px;">
+                                <i class="material-icons">view_stream</i>
+                                <span> Load Batch</span>
+                            </button>
+                            <input type="file" id="file3" style="display:none">
 
-                        </div>
+                        </div>*@
                         <div class="form-group col-xs-6">
                             <div class="form-line">
                                 @Html.Label("Containers x Batch:")
